@@ -12,7 +12,7 @@
 - 👨🏻‍💻 I'm studying at RMUTL
 - 🧠 I like to learn something new
 - 💭 I'm trying hard every day
-
+- ⚡ Fun fact :- Food and Music 🎵 are the reasons to live
 <br>
 <br>
 <br>
