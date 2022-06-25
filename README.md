@@ -1,4 +1,4 @@
-<img src="https://b4dcat404.github.io/images/two.gif]](https://pin.it/2Xb6Rks" />
+<img align="center" src="https://i.pinimg.com/originals/58/2f/bb/582fbb4259b2ea8f182844686ba7f39c.gif" alt="Illustration" width=1000 height=150/>
 
 ## Hey! Welcome to my profile 👋
 
