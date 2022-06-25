@@ -1,4 +1,4 @@
-<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+<img src="[https://b4dcat404.github.io/images/two.gif](https://pin.it/2vdLlz6)" />
 
 ## Hey! Welcome to my profile 👋
 
