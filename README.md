@@ -9,7 +9,7 @@
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Thailand 
-- 👨🏻‍💻 I'm studying at 
+- 👨🏻‍💻 I'm studying at RMUTL
 - 🧠 I like to learn something new
 - 💭 I'm trying hard every day
 - 📧 You can contact me in many ways.
