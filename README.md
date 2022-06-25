@@ -1,9 +1,22 @@
 # Hey! Welcome to my profile 👋
-Simple overview of use/purpose.
 
-## Description
+## 👨🏻‍💻 About me
 
-An in-depth paragraph about your project and overview of use.
+<br>
+
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+
+- 🌎 I'm from Russia / Crimea
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 I like to learn something new
+- 💭 I dream of developing the IT sector in my region
+- 📧 Reach me via vitalii.redka.dev@gmail.com
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Getting Started
 
