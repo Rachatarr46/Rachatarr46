@@ -1,4 +1,5 @@
-<img src="https://i.gifer.com/4G52.gif" width="100%"/>
+<img src="https://i.gifer.com/4G52.gif" />  
+
 
 ## Hey! Welcome to my profile 👋
 
