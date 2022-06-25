@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Gear</h1>
-<h3 align="center">A passionate frontend developer from Thai</h3>
+<h1 align="center">Hi👋, I'm Gear</h1>
+<h3 align="center">this is my github profile 📕🖊 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
