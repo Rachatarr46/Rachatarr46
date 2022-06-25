@@ -30,7 +30,7 @@
 <br>  
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/dev%20community-000000?logo=dev.to&logoColor=white&style=for-the-badge"/>](https://dev.to/chaitanyapratapsingh)
 <br>  
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/](https://www.instagram.com/imgearr_/)
 <br>  
 </div>
 
