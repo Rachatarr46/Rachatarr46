@@ -26,7 +26,7 @@
 <br>  
 [<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16525992/chaitanya-pratap-singh)
 <br>  
-[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100015141066687)
+[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100014604795927)
 <br>  
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/dev%20community-000000?logo=dev.to&logoColor=white&style=for-the-badge"/>](https://dev.to/chaitanyapratapsingh)
 <br>  
