@@ -1,5 +1,4 @@
-# Hello everyone 👋
-
+# Hey! Welcome to my profile 👋
 Simple overview of use/purpose.
 
 ## Description
