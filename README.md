@@ -1,4 +1,4 @@
-<img align="center" src="https://radical-eve.tumblr.com/image/184690274490"  width=1000 height=150/>
+<img align="center" src="https://radical-eve.tumblr.com/image/184690274490"/>
 
 ## Hey! Welcome to my profile 👋
 
