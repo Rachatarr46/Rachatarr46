@@ -1,4 +1,4 @@
-<img align="center" src="https://64.media.tumblr.com/c0f5abdf8a53a1b54d1118562bb901d5/tumblr_pqqcmqSDyG1y1psm4o1_1280.gifv" alt="Illustration" width=1000 height=200/>
+<img align="center" src="https://i.pinimg.com/originals/aa/c1/65/aac165019eeb92c26a0e196791e7df43.gif" alt="Illustration" width=1000 height=200/>
 
 ## Hey! Welcome to my profile 👋
 
