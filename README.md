@@ -1,4 +1,4 @@
-<img align="center" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Epic-Samurai.gif?fit=750%2C353&quality=80&strip=all&ssl=1" alt="Illustration" width=1000 height=150/>
+<img align="center" src="https://tenor.com/view/dark-gif-20999428" alt="Illustration" width=1000 height=150/>
 
 ## Hey! Welcome to my profile 👋
 
