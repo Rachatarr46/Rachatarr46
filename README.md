@@ -1,4 +1,6 @@
-<img align="center" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Epic-Samurai.gif?fit=750%2C353&quality=80&strip=all&ssl=1" alt="Illustration" width=1000 height=150/>
+<img align="center" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Epic-Samurai.gif?fit=750%2C353&quality=80&strip=all&ssl=1" 
+alt="Illustration" width=1000 height=150/>
+<div class="tenor-gif-embed" data-postid="16374864" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/art-water-waves-dark-stars-gif-16374864">Art Water GIF</a>from <a href="https://tenor.com/search/art-gifs">Art GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Hey! Welcome to my profile 👋
 
