@@ -8,11 +8,13 @@
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Thailand 
-- 👨🏻‍💻 I'm studying at RMUTL
+
+
+
+- 👨🏻‍💻 I'm studying at Rajamangala university of technology lanna
 - 🧠 I like to learn something new
-- 💭 I'm trying hard every day
-- ⚡ Fun fact :- Food and Music 🎵 are the reasons to live
+- 🎯 My goal  : Ai Engineer / full stack dev
+- ⚡ Fun fact : games and Music  are the reasons to live 
 <br>
 <br>
 <br>
