@@ -4,9 +4,9 @@
 <br>
 <br>
 
-<div align="left">
+<div align="left" style="margin-top: 20px;">
   <a href="https://portfolio-beta-smoky-36.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%20Visit%20Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=FFFFFF&logoWidth=18" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%20Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFFFFF&color=000000" alt="Portfolio" />
   </a>
 </div>
 
