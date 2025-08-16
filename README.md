@@ -11,7 +11,7 @@
 
 
 
-- 👨🏻‍💻 I'm studying at Rajamangala university of technology lanna
+- 👨🏻‍💻 I'm student at RMUTL Chiang Mai Thailand
 - 🧠 I like to learn something new
 
 <br>
