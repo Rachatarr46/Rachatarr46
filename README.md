@@ -1,7 +1,9 @@
 <img align="right" src="https://64.media.tumblr.com/a5d3a9539e738edc1651f87987644e4a/22f8132deea1f121-c5/s540x810/aa28c99a43980a53d69092f8e4799ff825abc7a2.gifv" alt="Illustration" width=1000 height=300/>
+
 <br>
 <br>
 <br>
+
 <div align="left">
   <a href="https://portfolio-beta-smoky-36.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/%20Visit%20Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&color=FFFFFF&logoWidth=18" alt="Portfolio" />
