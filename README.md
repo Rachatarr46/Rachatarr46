@@ -13,6 +13,8 @@
 
 - 👨🏻‍💻 I'm student at RMUTL Chiang Mai Thailand
 - 🧠 I like to learn something new
+- 💥 I’m passionate about programming and always motivated to keep learning and improving my skills.
+- ⭐ I can’t start coding without a cup of coffee. ☕
 
 <br>
 <br>
