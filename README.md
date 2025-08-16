@@ -13,8 +13,7 @@
 
 - 👨🏻‍💻 I'm studying at Rajamangala university of technology lanna
 - 🧠 I like to learn something new
-- 🎯 My goal  : Ai Engineer / full stack dev
-- ⚡ Fun fact : games and Music  are the reasons to live 
+
 <br>
 <br>
 <br>
