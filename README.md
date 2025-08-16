@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://portfolio-beta-smoky-36.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🎯%20Visit%20Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white&labelColor=DC2626&color=F59E0B" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/%20Visit%20Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white&labelColor=DC2626&color=F59E0B" alt="Portfolio" />
   </a>
 </div>
 
